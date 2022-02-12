@@ -59,6 +59,7 @@ div.top > p {
 }
 
 button:disabled {
+    background-color: #666;
     cursor: not-allowed;
 }
 
